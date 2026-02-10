@@ -1,0 +1,7 @@
+# Core dependencies for GitHub Secret Scanner
+# Note: pandas is optional - only needed if you want to use pandas for rule loading
+# The scanner can work with openpyxl alone for reading Excel files
+pandas>=2.0.0
+openpyxl>=3.1.0
+regex>=2023.0.0
+hypothesis>=6.82.0

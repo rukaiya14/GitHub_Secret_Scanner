@@ -1,0 +1,4 @@
+# file: C:\Users\Aliasgar Ghadiali\Downloads\Major Project\scan_secrets.py
+# hypothesis_version: 6.151.5
+
+['--base-ref', '--enable-entropy', '--filter-comments', '--mode', '--no-entropy', '--no-filter-comments', '--rules-file', '__main__', 'enable_entropy', 'filter_comments', 'pull_request', 'push', 'secret_rules.xlsx', 'store_false', 'store_true']
